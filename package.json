@@ -23,6 +23,7 @@
   "homepage": "https://github.com/minan05/BotAppDemo#readme",
   "dependencies": {
     "botbuilder": "^3.4.4",
-    "restify": "^4.3.0"
+    "restify": "^4.3.0",
+    "socket.io": "^1.7.2"
   }
 }
