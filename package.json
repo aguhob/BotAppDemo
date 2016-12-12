@@ -1,0 +1,28 @@
+{
+  "name": "botappdemo",
+  "version": "1.0.0",
+  "description": "\"building demo bot on MS Bot Framework\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minan05/BotAppDemo.git"
+  },
+  "keywords": [
+    "bot",
+    "demo",
+    "mac"
+  ],
+  "author": "Lil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minan05/BotAppDemo/issues"
+  },
+  "homepage": "https://github.com/minan05/BotAppDemo#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
